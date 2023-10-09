@@ -5,17 +5,16 @@
 
 ### Website Preview
 This application uses java servlet to create a book selling website. With the functions of displaying books by catalog, add to cart, payment. The application is written with Netbeans IDE, using the MongoDB database.
----
+
 #### Here are some pictures of the program:
 ![header](https://github.com/congtaiho/Book-Store/blob/main/Cr%C3%A9ation%20sans%20titre.jpg)
 ![cart](https://github.com/congtaiho/Book-Store/assets/132761655/d8b28c21-30a8-45ef-9c44-201e0b4feff6)
----
+
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Java servlet\
 ⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
 ⚡️ Easy to modify
 
 ## Installation & Deployment 📦
